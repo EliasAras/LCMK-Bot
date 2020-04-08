@@ -11,6 +11,7 @@ Automatisation d'achat de sneakers.
 Lien avec le site LCMK
 
 Requirements:
+
   -Python 3
   
   -Selenium
