@@ -12,6 +12,9 @@ Lien avec le site LCMK
 
 Requirements:
   -Python 3
+  
   -Selenium
+  
   -ChromeDriver
+  
   -BeautifullSoup
