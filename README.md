@@ -8,7 +8,7 @@ Automatisation d'achat de sneakers.
 
 -Achat de paires sur differents sites
 
-Lien avec le site LCMK
+Lien avec le site LCMK (https://github.com/jordan-dobarreiro/lessclicksmorekicks)
 
 Requirements:
 
